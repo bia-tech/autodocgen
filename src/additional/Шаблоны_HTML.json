@@ -1,0 +1,16 @@
+{
+	"ШаблонСплиттерНачало": "%1",
+	"ШаблонСплиттерКонец": "",
+	"ШаблонЗаголовок": "<h3><span style='color: rgb(0,0,255);'><strong>%1</strong></span></h3>",
+	"ШаблонЗаголовокДляКонстант": "<h4><span style='color: rgb(51,102,255);'>%1</span></h4>",
+	"ШаблонШапкаТЧ": "<table><tbody><tr><th>&nbsp;</th><th>Параметр</th><th>Обязательный</th><th>Тип</th><th>Описание</th></tr>",
+	"ШаблонШапкаТЧДляКонстант": "<table><tbody><tr><th>Константа</th><th>Тип</th><th>Описание</th></tr>",
+	"ШаблонСтрокаТЧ": "<tr><td>%1</td><td colspan='1'>%2</td><td colspan='1'>%3</td><td colspan='1'>%4</td><td colspan='1'>%5</td></tr>",
+	"ШаблонСтрокаТЧДляКонстант": "<tr><td colspan='1'>%1</td><td colspan='1'>%2</td><td colspan='1'>%3</td></tr>",
+	"ШаблонПодвалТЧ": "</tbody></table>",
+	"ШаблонВозврат": "<p><em><span style='color: rgb(0,0,0);'>Возвращаемое значение</span></em></p><p><span style='color: rgb(0,0,255);'>%1<span style='color: rgb(0,0,0);'> - %2</span></span></p>",
+	"ШаблонОписание": "<p>%1</p>",
+	"ШаблонПример": "<p><span style='color: rgb(51,102,255);'><em>Пример вызова</em></span></p><![CDATA[%1]]>",
+	"ШаблонНачалоСтраницы": "<html><head><style>table, th, td {border: 1px solid black;border-collapse: collapse;} table th {background-color: lightgray;</style></head><body>",
+	"ШаблонКонецСтраницы": "</body></html>"
+}
