@@ -94,6 +94,6 @@
 
 ### В Формате HTML
 
-![html](pict/html1.png)
+![html](pict/html1.PNG)
 
-![html](pict/html2.png)
+![html](pict/html2.PNG)
