@@ -26,7 +26,7 @@
     {
         "GLOBAL": {
             "КаталогИсходныхФайлов": "src\\configuration",
-            "version": "1.0"
+            "version": "1.0.1"
         },
         "AutodocGen":{
             "НастройкиConluence": {
@@ -72,10 +72,28 @@
 
     Подсистемы конфигурации
     |
-    +-- КорневаяПодсистема (не выводится в интерфейс пользователя)
+    +-- МояКорневаяПодсистема (не выводится в интерфейс пользователя)
         |
         +-- Раздел
             |
             +-- Подсистема
+                |
+                +-- ОбъектМетаданных
 
 ```
+
+## Примеры
+
+### В формате Confluence
+
+![confluence](pict/confluence1.png)
+
+![confluence](pict/confluence2.png)
+
+![confluence](pict/confluence3.png)
+
+### В Формате HTML
+
+![html](pict/html1.png)
+
+![html](pict/html2.png)
