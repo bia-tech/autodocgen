@@ -1,4 +1,4 @@
 @ECHO OFF
 del "*.ospx"
-opm build . -mf ./packagedef -out .
-opm install -f autodocgen-1.0.ospx
+call opm build . -mf ./packagedef -out .
+call opm install -f ./autodocgen-1.0.1.ospx
