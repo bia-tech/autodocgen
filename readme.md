@@ -27,7 +27,7 @@
     {
         "GLOBAL": {
             "КаталогИсходныхФайлов": "src\\configuration",
-            "version": "1.0.3"
+            "version": "1.0.4"
         },
         "AutodocGen":{
             "НастройкиConluence": {
